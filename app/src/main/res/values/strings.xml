@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BroadcastReceiver</string>
+    <string name="open_app_a">Open A</string>
+    <string name="open_app_b">Open B</string>
 </resources>
